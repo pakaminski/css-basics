@@ -10,6 +10,12 @@ h2 {
   margin-bottom: 0.3em;
 }
 
+h4{
+    float: right;
+    font-weight: bold
+        
+}
+
 .center {
   margin: 0 auto;
   text-align: center;
@@ -53,9 +59,14 @@ td.code {
   font-weight: bold;
 }
 
-iframe.cssdeck {
+iframe.jsbin {
   margin-bottom: 10px;
-  min-height: 400px !important;
+  min-height: 350px !important;
+}
+
+iframe.jsbinresult {
+  margin-bottom: 10px;
+  min-height: 100px !important;
 }
 
 .container6-4 {
