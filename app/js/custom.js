@@ -30,7 +30,7 @@ $('.exercise').on('impress:stepenter', function(){
             resultIframeSrc = resultIframe.data("src");
         resultIframe.attr("src",resultIframeSrc);
 
-    }, 5000);
+    }, 2000);
 
 });
 
