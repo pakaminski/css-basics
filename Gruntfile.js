@@ -76,7 +76,7 @@ module.exports = function (grunt) {
         git_deploy: {
             your_target: {
                 options: {
-                    url: 'https://tbialecki@github.com/tbialecki/css-basics.git',
+                    url: 'https://pakaminski@github.com/pakaminski/css-basics.git',
                     branch: 'gh-pages'
                 },
                 src: 'dist'
